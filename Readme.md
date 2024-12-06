@@ -8,3 +8,5 @@ Is command ka istemal aap ne is liye kiya tha taake `npx` jaise tools ko apne sy
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
+A press and ente to all done 
